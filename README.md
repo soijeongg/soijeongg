@@ -1,5 +1,6 @@
-# Soi Jeong 👋
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=show%20time!&fontSize=90)
+## soi Jeong 정소이
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoijeongg&count_bg=%2356C87B&title_bg=%233876C0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 # skill
