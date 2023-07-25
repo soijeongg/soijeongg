@@ -4,7 +4,7 @@
 # skill
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![MYSQL](https://img.shields.io/badge/MYSQL-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MYSQL-4479A1.svg?&style=for-the-badge&logo=MYSQL&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-4479A1.svg?&style=for-the-badge&logo=Git&logoColor=white)
 # Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ninosoi2001)](https://solved.ac/ninosoi2001/)
