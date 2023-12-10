@@ -3,7 +3,7 @@
 ## soi Jeong 정소이
 항상 도전하고 공부하는 개발자 정소이 입니다 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Light%20Blue%20Heart.png" alt="Light Blue Heart" width="25" height="25" />
 <div></div>
- <a href="mailto:010127js@gmail.com">
+ <a href="mailto:writer__soi@naver.com">
    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/>
 </a>
 
