@@ -48,9 +48,5 @@
 <p align = center>
 <img src ="http://mazassumnida.wtf/api/v2/generate_badge?boj=ninosoi2001)](https://solved.ac/ninosoi2001/">
 <img src ="https://github-readme-stats.vercel.app/api?username=soijeongg&show_icons=true&theme=react)](https://github.com/soijeongg/github-readme-stats)">
- <div align="center">
- 
-<!-- most used language -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soijeong&layout=compact)](https://github.com/soijeong/github-readme-stats)
-</div>
+</p>
 
