@@ -1,7 +1,9 @@
 <p align="center">
 <img src ="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Soi%20Jeong&fontSize=90">
 </p>
-<p align="center">
+
+ <h3  align = center>⭐ about me ⭐</h3>
+ <p align="center">
 항상 도전하고 공부하는 개발자 정소이 입니다
  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Light%20Blue%20Heart.png" alt="Light Blue Heart" width="25" height="25" />
 <div></div></p>
@@ -13,7 +15,7 @@
 <img src = "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoijeongg&count_bg=%2356C87B&title_bg=%233876C0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com">
  </p>
 
-<h3  align = center>:books: Stack </h3>
+<h3  align = center>:books: Stack :books:</h3>
  <p align = center>
 <img src="https://img.shields.io/badge/python-3776AB?&style=for-the-flat&logo=python&logoColor=white">
 <img src = "https://img.shields.io/badge/HTML5-E34F26?&style=for-the-flat&logo=HTML5&logoColor=white">
@@ -25,7 +27,7 @@
 <img src = "https://img.shields.io/badge/jinja-B41717?&style=for-the-flat&logo=jinja&logoColor=white">
 </p>
 
-<h3  align = center>:pencil2:study</h3>
+<h3  align = center>:pencil2:study:pencil2:</h3>
 <p align = center>
 <img src = "https://img.shields.io/badge/javascript-F7DF1E?&style=for-the-flat&logo=javascript&logoColor=white">
 <img src = "https://img.shields.io/badge/node.js-339933?&style=for-the-flat&logo=nodedotjs&logoColor=white">
@@ -36,16 +38,19 @@
 <!--![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 <!--![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)-->
 
-<h3 align = center>:hammer:Tools</h3>
+<h3 align = center>:hammer:Tools:hammer:</h3>
 <p align = center>
 <img src ="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?&style=for-the-flat&logo=Visual%20Studio%20Code&logoColor=white">
 <img src ="https://img.shields.io/badge/Eclipse%20IDE-2C2255?&style=for-the-flat&logo=Eclipse%20IDE&logoColor=white">
 </p>
 
-<h3 align = center>:pencil: other</h3>
+<h3 align = center>:pencil: other:pencil:</h3>
 <p align = center>
 <img src ="http://mazassumnida.wtf/api/v2/generate_badge?boj=ninosoi2001)](https://solved.ac/ninosoi2001/">
 <img src ="https://github-readme-stats.vercel.app/api?username=soijeongg&show_icons=true&theme=react)](https://github.com/soijeongg/github-readme-stats)">
-<img src ="https://github-readme-stats.vercel.app/api?wakatime?username=soijeongg&show_icons=true&theme=react)](https://github.com/soijeongg/github-readme-stats)">
-</p>
+ <div align="center">
+ 
+<!-- most used language -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soijeong&layout=compact)](https://github.com/soijeong/github-readme-stats)
+</div>
 
