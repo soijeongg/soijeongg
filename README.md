@@ -45,8 +45,9 @@
 </p>
 
 <h3 align = center>:pencil: other:pencil:</h3>
-<p align = center>
-<img src ="http://mazassumnida.wtf/api/v2/generate_badge?boj=ninosoi2001)](https://solved.ac/ninosoi2001/">
+<div align = center>
+ 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ninosoi2001)](https://solved.ac/ninosoi2001/)
 <img src ="https://github-readme-stats.vercel.app/api?username=soijeongg&show_icons=true&theme=react)](https://github.com/soijeongg/github-readme-stats)">
-</p>
+</div>
 
