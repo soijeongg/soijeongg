@@ -25,13 +25,16 @@
 <img src = "https://img.shields.io/badge/mongodb-47A248?&style=for-the-flat&logo=mongodb&logoColor=white">
 <img src = "https://img.shields.io/badge/jquery-0769AD?&style=for-the-flat&logo=jquery&logoColor=white">
 <img src = "https://img.shields.io/badge/jinja-B41717?&style=for-the-flat&logo=jinja&logoColor=white">
+<img src = "https://img.shields.io/badge/javascript-F7DF1E?&style=for-the-flat&logo=javascript&logoColor=white">
+<img src = "https://img.shields.io/badge/node.js-339933?&style=for-the-flat&logo=nodedotjs&logoColor=white">
+<img src = "https://img.shields.io/badge/express-000000?&style=for-the-flat&logo=express&logoColor=white">
 </p>
 
 <h3  align = center>:pencil2:study:pencil2:</h3>
 <p align = center>
-<img src = "https://img.shields.io/badge/javascript-F7DF1E?&style=for-the-flat&logo=javascript&logoColor=white">
+<img src = "https://img.shields.io/badge/docker-2496ED?&style=for-the-flat&logo=docker&logoColor=white">
 <img src = "https://img.shields.io/badge/node.js-339933?&style=for-the-flat&logo=nodedotjs&logoColor=white">
-<img src = "https://img.shields.io/badge/express-000000?&style=for-the-flat&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-flat&logo=Typescript&logoColor=white"/>
 <img src = "https://img.shields.io/badge/C-A8B9CC?&style=for-the-flat&logo=C&logoColor=white">
 <img src = "https://img.shields.io/badge/C++-00599C?&style=for-the-flat&logo=cplusplus&logoColor=white">
 </p>
@@ -42,6 +45,8 @@
 <p align = center>
 <img src ="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?&style=for-the-flat&logo=Visual%20Studio%20Code&logoColor=white">
 <img src ="https://img.shields.io/badge/Eclipse%20IDE-2C2255?&style=for-the-flat&logo=Eclipse%20IDE&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-flat&logo=Postman&logoColor=white"/>
+
 </p>
 
 <h3 align = center>:pencil: other:pencil:</h3>
