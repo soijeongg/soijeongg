@@ -11,8 +11,8 @@
  <a href="mailto:writer__soi@naver.com">
    <img src="https://img.shields.io/badge/Naver Mail-03C75A?style=flat-square&logo=Naver&logoColor=white&link=writer__soi@naver.com"/>
 </a>
- <a href="https://velog.io/@soijeongg"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@soijeongg"/></a> 
 <img src = "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoijeongg&count_bg=%2356C87B&title_bg=%233876C0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com">
+  <a href="https://velog.io/@soijeongg"><img src="https://velog-readme-stats.vercel.app/api/badge?name=soijeongg"></a> 
  </p>
 
 <h3  align = center>:books: Stack :books:</h3>
@@ -54,5 +54,7 @@
  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ninosoi2001)](https://solved.ac/ninosoi2001/)
 <img src ="https://github-readme-stats.vercel.app/api?username=soijeongg&show_icons=true&theme=react)](https://github.com/soijeongg/github-readme-stats)">
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=soijeongg)](https://github.com/eungyeole/velog-readme-stats)
+
 </div>
 
