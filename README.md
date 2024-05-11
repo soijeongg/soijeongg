@@ -54,7 +54,7 @@
  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ninosoi2001)](https://solved.ac/ninosoi2001/)
 <img src ="https://github-readme-stats.vercel.app/api?username=soijeongg&show_icons=true&theme=react)](https://github.com/soijeongg/github-readme-stats)">
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=soijeongg)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=soijeongg)]([https://velog.io/@soijeongg])
 
 </div>
 
