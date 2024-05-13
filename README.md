@@ -52,9 +52,14 @@
 <h3 align = center>:pencil: other:pencil:</h3>
 <div align = center>
  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ninosoi2001)](https://solved.ac/ninosoi2001/)
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ninosoi2001)](https://solved.ac/ninosoi2001/)
+<div></div>
+ 
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=soijeongg)]([https://velog.io/@soijeongg])
+<div></div>
 <img src ="https://github-readme-stats.vercel.app/api?username=soijeongg&show_icons=true&theme=react)](https://github.com/soijeongg/github-readme-stats)">
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=soijeongg)]([https://velog.io/@soijeongg])
+<div></div>
+
 
 </div>
 
