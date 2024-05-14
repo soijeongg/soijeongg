@@ -32,6 +32,7 @@
 <img src = "https://img.shields.io/badge/javascript-F7DF1E?&style=for-the-flat&logo=javascript&logoColor=white">
 <img src = "https://img.shields.io/badge/express-000000?&style=for-the-flat&logo=express&logoColor=white">
 <img src = "https://img.shields.io/badge/amazonaws-232F3E?&style=for-the-flat&logo=amazonaws&logoColor=white">
+<img src = "https://img.shields.io/badge/node.js-339933?&style=for-the-flat&logo=nodedotjs&logoColor=white">
 </p>
  <p align = center>
 <img src = "https://img.shields.io/badge/passport-34E27A?&style=for-the-flat&logo=passport&logoColor=white">
@@ -41,7 +42,6 @@
 <h3  align = center>:pencil2:study:pencil2:</h3>
 <p align = center>
 <img src = "https://img.shields.io/badge/docker-2496ED?&style=for-the-flat&logo=docker&logoColor=white">
-<img src = "https://img.shields.io/badge/node.js-339933?&style=for-the-flat&logo=nodedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-flat&logo=Typescript&logoColor=white"/>
  <img src = "https://img.shields.io/badge/kubernetes-326CE5?&style=for-the-flat&logo=kubernetes&logoColor=white">
  </p>
