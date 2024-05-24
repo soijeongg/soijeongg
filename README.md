@@ -32,6 +32,7 @@
  <p align = center>
 <img src = "https://img.shields.io/badge/express-000000?&style=for-the-flat&logo=express&logoColor=white">
 <img src = "https://img.shields.io/badge/amazonaws-232F3E?&style=for-the-flat&logo=amazonaws&logoColor=white">
+<img src = "https://img.shields.io/badge/googlecloud-4285F4?&style=for-the-flat&logo=googlecloud&logoColor=white">
 <img src = "https://img.shields.io/badge/node.js-339933?&style=for-the-flat&logo=nodedotjs&logoColor=white">
 <img src = "https://img.shields.io/badge/passport-34E27A?&style=for-the-flat&logo=passport&logoColor=white">
 </p>
