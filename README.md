@@ -34,11 +34,8 @@
 <img src = "https://img.shields.io/badge/amazonaws-232F3E?&style=for-the-flat&logo=amazonaws&logoColor=white">
 <img src = "https://img.shields.io/badge/googlecloud-4285F4?&style=for-the-flat&logo=googlecloud&logoColor=white">
 <img src = "https://img.shields.io/badge/node.js-339933?&style=for-the-flat&logo=nodedotjs&logoColor=white">
-<img src = "https://img.shields.io/badge/passport-34E27A?&style=for-the-flat&logo=passport&logoColor=white">
 </p>
  <p align = center>
-<img src = "https://img.shields.io/badge/jest-C21325?&style=for-the-flat&logo=jest&logoColor=white">
-<img src = "https://img.shields.io/badge/prisma-2D3748?&style=for-the-flat&logo=prisma&logoColor=white">
 <img src = "https://img.shields.io/badge/docker-2496ED?&style=for-the-flat&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-flat&logo=Typescript&logoColor=white"/>
   <img src = "https://img.shields.io/badge/apachekafka-231F20?&style=for-the-flat&logo=apachekafka&logoColor=white">
@@ -49,14 +46,16 @@
 <!--<img src = "https://img.shields.io/badge/C-A8B9CC?&style=for-the-flat&logo=C&logoColor=white">-->
 <!--<img src = "https://img.shields.io/badge/c++-00599C?&style=for-the-flat&logo=cplusplus&logoColor=white">-->
 <!--<img src = "https://img.shields.io/badge/csharp-512BD4?&style=for-the-flat&logo=csharp&logoColor=white"> -->
+<img src="https://img.shields.io/badge/java-007396?&style=for-the-flat&logo=openjdk&logoColor=white"> 
 <img src = "https://img.shields.io/badge/kubernetes-326CE5?&style=for-the-flat&logo=kubernetes&logoColor=white">
-<!--<img src = "https://img.shields.io/badge/spring-6DB33F?&style=for-the-flat&logo=spring&logoColor=white">-->
+<img src = "https://img.shields.io/badge/spring-6DB33F?&style=for-the-flat&logo=spring&logoColor=white">
 
-<img src = "https://img.shields.io/badge/swift-F05138?&style=for-the-flat&logo=swift&logoColor=white">
+<!--<img src = "https://img.shields.io/badge/swift-F05138?&style=for-the-flat&logo=swift&logoColor=white">-->
 </p>
 <h3 align = center>:hammer:Tools:hammer:</h3>
 <p align = center>
 <img src ="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?&style=for-the-flat&logo=Visual%20Studio%20Code&logoColor=white">
+<img src ="https://img.shields.io/badge/intellijidea-000000?&style=for-the-flat&logo=intellijidea&logoColor=white">
 <img src ="https://img.shields.io/badge/Eclipse%20IDE-2C2255?&style=for-the-flat&logo=Eclipse%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-flat&logo=Postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-flat&logo=insomnia&logoColor=white"/>
