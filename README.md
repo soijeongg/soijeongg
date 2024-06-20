@@ -6,7 +6,8 @@
  <p align="center">
 항상 도전하고 공부하는 개발자 정소이 입니다
  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Light%20Blue%20Heart.png" alt="Light Blue Heart" width="25" height="25" />
-<div></div></p>
+  <a href=https://docs.google.com/document/d/e/2PACX-1vRd-QayF113zT9t_idOH4B1tsDiS3Qb_6mijmNPq64R2eIGKlQntPq3SpL7gfNj6IqXgXFbSjBoqJ-n/pub> 이력서
+<div></div> </p>
 <p align="center">
  <a href="mailto:writer__soi@naver.com">
    <img src="https://img.shields.io/badge/Naver Mail-03C75A?style=flat-square&logo=Naver&logoColor=white&link=writer__soi@naver.com"/>
