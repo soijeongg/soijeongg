@@ -71,8 +71,10 @@
  
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ninosoi2001)](https://solved.ac/ninosoi2001/)
 <div></div>
-<img src ="https://github-readme-stats.vercel.app/api?username=soijeongg&show_icons=true&theme=react)](https://github.com/soijeongg/github-readme-stats)">
-<div></div>
+
+<a href="https://github.com/soijeongg"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=soijeongg&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
+<a href="https://github.com/soijeongg"><img  align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soijeongg&layout=compact&theme=react&hide_border=true" /></a> 
+
 
 
 </div>
