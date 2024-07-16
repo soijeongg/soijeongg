@@ -41,14 +41,6 @@
   <img src = "https://img.shields.io/badge/apachekafka-231F20?&style=for-the-flat&logo=apachekafka&logoColor=white">
   <img src = "https://img.shields.io/badge/nestjs-E0234E?&style=for-the-flat&logo=nestjs&logoColor=white">
  </p>
-<h3  align = center>:pencil2:study:pencil2:</h3>
- <p align = center>
-<!--<img src = "https://img.shields.io/badge/C-A8B9CC?&style=for-the-flat&logo=C&logoColor=white">-->
-<!--<img src = "https://img.shields.io/badge/c++-00599C?&style=for-the-flat&logo=cplusplus&logoColor=white">-->
-<!--<img src = "https://img.shields.io/badge/csharp-512BD4?&style=for-the-flat&logo=csharp&logoColor=white"> -->
-<img src="https://img.shields.io/badge/java-007396?&style=for-the-flat&logo=openjdk&logoColor=white"> 
-<img src = "https://img.shields.io/badge/kubernetes-326CE5?&style=for-the-flat&logo=kubernetes&logoColor=white">
-<img src = "https://img.shields.io/badge/spring-6DB33F?&style=for-the-flat&logo=spring&logoColor=white">
 
 <!--<img src = "https://img.shields.io/badge/swift-F05138?&style=for-the-flat&logo=swift&logoColor=white">-->
 </p>
@@ -70,12 +62,10 @@
 <div align = center>
  
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ninosoi2001)](https://solved.ac/ninosoi2001/)
-<div></div>
+<div></div> 
 
-<a href="https://github.com/soijeongg"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=soijeongg&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
-<a href="https://github.com/soijeongg"><img  align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soijeongg&layout=compact&theme=react&hide_border=true" /></a> 
-
-
+![soijeongg github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=soijeongg)
+![soijeongg github-trophies](https://stats.dooboo.io/api/github-trophies?login=soijeongg)
 
 </div>
 
