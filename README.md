@@ -40,6 +40,7 @@
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-flat&logo=Typescript&logoColor=white"/>
   <img src = "https://img.shields.io/badge/apachekafka-231F20?&style=for-the-flat&logo=apachekafka&logoColor=white">
   <img src = "https://img.shields.io/badge/nestjs-E0234E?&style=for-the-flat&logo=nestjs&logoColor=white">
+  <img src = "https://img.shields.io/badge/graphql-E10098?&style=for-the-flat&logo=graphql&logoColor=white">
  </p>
 
 <!--<img src = "https://img.shields.io/badge/swift-F05138?&style=for-the-flat&logo=swift&logoColor=white">-->
