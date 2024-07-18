@@ -61,7 +61,7 @@
 
 <h3 align = center>:pencil: other:pencil:</h3>
 <div align = center>
- <a href="https://github.com/soijeongg"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=soijeongg&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
+ <a href="https://github.com/soijeongg"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=soijeongg&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOI's github stats" /></a>
 <a href="https://github.com/soijeongg"><img  align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soijeongg&layout=compact&theme=react&hide_border=true" /></a> 
 
 </div>
