@@ -18,18 +18,17 @@
 <h3  align = center>:books: Stack :books:</h3>
  <p align = center>
 <img src="https://img.shields.io/badge/python-3776AB?&style=for-the-flat&logo=python&logoColor=white">
-<img src = "https://img.shields.io/badge/HTML5-E34F26?&style=for-the-flat&logo=HTML5&logoColor=white">
 <img src = "https://img.shields.io/badge/MYSQL-4479A1?&style=for-the-flat&logo=MYSQL&logoColor=white">
 <img src = "https://img.shields.io/badge/Git-4479A1?&style=for-the-flat&logo=Git&logoColor=white">
  </p>
   <p align = center>
 <img src = "https://img.shields.io/badge/Fastapi-009688?&style=for-the-flat&logo=Fastapi&logoColor=white">
+ <img src = "https://img.shields.io/badge/Django-092E20?&style=for-the-flat&logo=django&logoColor=white">  
 <img src = "https://img.shields.io/badge/mongodb-47A248?&style=for-the-flat&logo=mongodb&logoColor=white">
 <img src = "https://img.shields.io/badge/jquery-0769AD?&style=for-the-flat&logo=jquery&logoColor=white">
-<img src = "https://img.shields.io/badge/jinja-B41717?&style=for-the-flat&logo=jinja&logoColor=white">
-<img src = "https://img.shields.io/badge/javascript-F7DF1E?&style=for-the-flat&logo=javascript&logoColor=white">
    </p>
  <p align = center>
+ <img src = "https://img.shields.io/badge/javascript-F7DF1E?&style=for-the-flat&logo=javascript&logoColor=white">
 <img src = "https://img.shields.io/badge/express-000000?&style=for-the-flat&logo=express&logoColor=white">
 <img src = "https://img.shields.io/badge/amazonaws-232F3E?&style=for-the-flat&logo=amazonaws&logoColor=white">
 <img src = "https://img.shields.io/badge/googlecloud-4285F4?&style=for-the-flat&logo=googlecloud&logoColor=white">
