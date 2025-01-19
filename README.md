@@ -40,6 +40,10 @@
   <img src = "https://img.shields.io/badge/apachekafka-231F20?&style=for-the-flat&logo=apachekafka&logoColor=white">
   <img src = "https://img.shields.io/badge/nestjs-E0234E?&style=for-the-flat&logo=nestjs&logoColor=white">
   <img src = "https://img.shields.io/badge/graphql-E10098?&style=for-the-flat&logo=graphql&logoColor=white">
+   <div></div> 
+   <p align="center">
+   <a href="https://github.com/soijeongg"><img  align="center" style="height: 180px; width: 1500px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soijeongg&layout=compact&theme=react&hide_border=true" /></a> 
+    </p>
  </p>
 
 <!--<img src = "https://img.shields.io/badge/swift-F05138?&style=for-the-flat&logo=swift&logoColor=white">-->
@@ -61,7 +65,8 @@
 <h3 align = center>:pencil: other:pencil:</h3>
 <div align = center>
  <a href="https://github.com/soijeongg"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=soijeongg&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOI's github stats" /></a>
-<a href="https://github.com/soijeongg"><img  align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soijeongg&layout=compact&theme=react&hide_border=true" /></a> 
+<a href="https://solved.ac/ninosoi2001"><img  align="center" style="height:180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ninosoi2001" /></a> 
+
 
 </div>
 
