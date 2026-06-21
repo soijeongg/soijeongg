@@ -66,6 +66,6 @@
 <!-- <div align = center>
  <a href="https://github.com/soijeongg"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=soijeongg&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOI's github stats" /></a>
 <a href="https://solved.ac/ninosoi2001"><img  align="center" style="height:180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ninosoi2001" /></a>  -->
- <img src="profile-3d-contrib/profile-south-season-animate.svg" />
+ <img src="profile-3d-contrib/profile-season-animate.svg" />
 </div>
 
